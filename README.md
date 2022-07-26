@@ -1,3 +1,3 @@
-Hi I am 3tiri and this is my website under construction 
+# Website under construction
 
-# big changes coming soon!!
+# Big changes coming soon!!
